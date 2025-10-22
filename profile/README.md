@@ -1,4 +1,4 @@
-![dept-agency](https://raw.githubusercontent.com/dept/.github/refs/heads/main/profile/img/Depster - Linkedin Cover - 1.jpeg)
+![dept-agency](https://raw.githubusercontent.com/dept/.github/refs/heads/main/profile/img/banner-2.jpeg)
 
 ## About DEPT®
 
